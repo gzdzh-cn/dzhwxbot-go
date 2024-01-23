@@ -1,0 +1,25 @@
+dzhWxChat:
+  version: "v0.0.1"
+server:
+  address: ':8206'
+  openapiPath: '/api.json'
+  swaggerPath: '/swagger'
+
+logger:
+  path: "./manifest/data/logs/"
+  level: 'all'
+  stdout: true
+  file: '{Y-m-d}.log'
+
+wxBot:
+  storage: "./manifest/data/json"
+
+chatgpt:
+  mode: "prod"
+  requestUrl: "http://127.0.0.1:8207"
+  accessToken: "979b8b0b-7e40-41c9-a630-757b768252a1"
+  goframe: "gf"
+  keyWordPrefix: "小智"
+
+
+doctoken: 'dzh'

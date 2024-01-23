@@ -1,0 +1,1054 @@
+2024-01-23 00:00:07.893 [DEBU] {883fedceabb6ac178bd86d19b1cc65c2} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:00:33.008 [DEBU] {f8ece6a7b1b6ac178cd86d1933315157} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:00:58.070 [DEBU] {0073af7db7b6ac178dd86d191627c4a1} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:01:23.186 [DEBU] {10dcb656bdb6ac178ed86d1985f4f3cc} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:01:48.258 [DEBU] {b8c3182dc3b6ac178fd86d19f2ea24e9} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:02:13.367 [DEBU] {0005b605c9b6ac1790d86d19dec36a0d} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:02:38.470 [DEBU] {c829faddceb6ac1791d86d1918b62ba8} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:03:03.530 [DEBU] {f8d9acb3d4b6ac1792d86d19637ca4b0} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:03:28.591 [DEBU] {f8137489dab6ac1793d86d19d4c6c161} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:03:53.657 [DEBU] {90027b5fe0b6ac1794d86d19ea916312} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:04:18.745 [DEBU] {60fbd936e6b6ac1795d86d19ed87f66f} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:04:44.375 [DEBU] {f8a2882eecb6ac1796d86d19beb33a11} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:05:09.442 [DEBU] {a0cfa004f2b6ac1797d86d19307ea75c} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:05:34.551 [DEBU] {109942ddf7b6ac1798d86d1901365dce} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:05:59.618 [DEBU] {18d455b3fdb6ac1799d86d1918ea038f} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:06:24.701 [DEBU] {08d76c8a03b7ac179ad86d1942c9074f} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:06:49.834 [DEBU] {78e27a6409b7ac179bd86d197964708f} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:07:14.952 [DEBU] {90fb9c3d0fb7ac179cd86d19459f9683} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:07:40.116 [DEBU] {d0b6831915b7ac179dd86d191843f0ac} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:08:05.349 [DEBU] {a8f784f91ab7ac179ed86d19992380f1} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:08:30.431 [DEBU] {180b7ad020b7ac179fd86d19e3931495} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:08:55.497 [DEBU] {288690a626b7ac17a0d86d19e0144f55} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:09:20.565 [DEBU] {681cb67c2cb7ac17a1d86d19833a5f6e} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:09:45.633 [DEBU] {e0aee85232b7ac17a2d86d19d72329de} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:10:10.692 [DEBU] {c8ca8b2838b7ac17a3d86d19e87c7d52} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:10:35.829 [DEBU] {4073cc023eb7ac17a4d86d19692917bd} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:11:00.905 [DEBU] {003073d943b7ac17a5d86d19c62f0974} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:11:26.054 [DEBU] {68496bb449b7ac17a6d86d1988a5786a} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:11:51.130 [DEBU] {d067128b4fb7ac17a7d86d19e20dbddc} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:12:16.249 [DEBU] {1079506455b7ac17a8d86d1958665463} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:12:41.313 [DEBU] {a0343d3a5bb7ac17a9d86d1972eeb6bb} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:13:06.373 [DEBU] {2025f10f61b7ac17aad86d190367440d} wechat.go:92: RetCode:0  Selector:0
+2024-01-23 00:13:06.570 47598: server gracefully shutting down by signal: interrupt
+2024-01-23 00:13:06.571 [INFO] cmd.go:22: pid[47598]: all servers shutdown
+2024-01-23 00:13:23.905 [DEBU] service init
+2024-01-23 00:13:23.906 [DEBU] RunMode:dev
+2024-01-23 00:13:23.906 [DEBU] {78a4f62465b7ac1736dce73fb3d68b27} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:13:23.906 [DEBU] {78a4f62465b7ac1736dce73fb3d68b27} init.go:68: dzh
+2024-01-23 00:13:27.771 [DEBU] {78a4f62465b7ac1736dce73fb3d68b27} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:13:27.775 [INFO] {f8c7bc2465b7ac1735dce73fe105dc01} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:13:27.776 [INFO] {f8c7bc2465b7ac1735dce73fe105dc01} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:13:27.775 [INFO] pid[50161]: http server started listening on [:8206]
+2024-01-23 00:13:28.740 [DEBU] {f066134566b7ac1737dce73fcb063357} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:13:30.704 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:13:35.704 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:13:40.704 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:13:45.704 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:13:50.704 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:13:53.918 [DEBU] {d8a2da216cb7ac1738dce73fb42bf773} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:13:55.705 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:14:00.705 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:14:05.709 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:14:10.705 {78a4f62465b7ac1736dce73fb3d68b27} wechat.go:150: 定时任务，查询天气
+2024-01-23 00:14:14.173 50161: server gracefully shutting down by signal: interrupt
+2024-01-23 00:14:14.174 [INFO] cmd.go:22: pid[50161]: all servers shutdown
+2024-01-23 00:14:15.637 [DEBU] service init
+2024-01-23 00:14:15.637 [DEBU] RunMode:dev
+2024-01-23 00:14:15.637 [DEBU] {8831653071b7ac1771c77327ca630297} init.go:58: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:14:15.637 [DEBU] {8831653071b7ac1771c77327ca630297} init.go:67: dzh
+2024-01-23 00:14:17.991 [DEBU] {8831653071b7ac1771c77327ca630297} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:14:18.000 [INFO] {c80b323071b7ac1770c773278501debc} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:14:18.000 [INFO] {c80b323071b7ac1770c773278501debc} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:14:18.000 [INFO] pid[50238]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:14:19.002 [DEBU] {d89cf9f871b7ac1772c773273de67501} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:14:32.062 [DEBU] {6014650375b7ac1773c77327b2913b37} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:14:57.363 [DEBU] {c87d6de77ab7ac1774c77327ae918213} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:15:22.430 [DEBU] {38d187bd80b7ac1775c7732787a58d6e} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:15:47.603 [DEBU] {00e7f49986b7ac1776c77327debf8b12} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:16:11.198 50238: server gracefully shutting down by signal: interrupt
+2024-01-23 00:16:11.199 [INFO] cmd.go:22: pid[50238]: all servers shutdown
+2024-01-23 00:16:12.681 [DEBU] service init
+2024-01-23 00:16:12.681 [DEBU] RunMode:dev
+2024-01-23 00:16:12.681 [DEBU] {109bbd708cb7ac176883ca58045939f7} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:16:12.681 [DEBU] {109bbd708cb7ac176883ca58045939f7} init.go:68: dzh
+2024-01-23 00:16:14.553 [DEBU] {109bbd708cb7ac176883ca58045939f7} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:16:14.557 [INFO] {f8dc89708cb7ac176783ca581081dc1f} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:16:14.558 [INFO] {f8dc89708cb7ac176783ca581081dc1f} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:16:14.557 [INFO] pid[50372]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:16:15.530 [DEBU] {e020951a8db7ac176983ca58b5f0c9b5} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:16:28.195 50372: server gracefully shutting down by signal: interrupt
+2024-01-23 00:16:28.196 [INFO] cmd.go:22: pid[50372]: all servers shutdown
+2024-01-23 00:16:29.560 [DEBU] service init
+2024-01-23 00:16:29.560 [DEBU] RunMode:dev
+2024-01-23 00:16:29.560 [DEBU] {a80ecf5e90b7ac1771572677502444b5} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:16:29.560 [DEBU] {a80ecf5e90b7ac1771572677502444b5} init.go:68: dzh
+2024-01-23 00:16:32.536 [DEBU] {a80ecf5e90b7ac1771572677502444b5} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:16:32.545 [INFO] {60e1995e90b7ac17705726773d97aa68} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:16:32.545 [INFO] {60e1995e90b7ac17705726773d97aa68} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:16:32.545 [INFO] pid[50425]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:16:33.503 [DEBU] {387ed44991b7ac1772572677a7295ebd} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:16:35.458 wechat.go:150: 定时任务，查询天气
+2024-01-23 00:16:40.459 wechat.go:150: 定时任务，查询天气
+2024-01-23 00:16:45.458 wechat.go:150: 定时任务，查询天气
+2024-01-23 00:16:48.702 50425: server gracefully shutting down by signal: interrupt
+2024-01-23 00:16:48.704 [INFO] cmd.go:22: pid[50425]: all servers shutdown
+2024-01-23 00:16:50.108 [DEBU] service init
+2024-01-23 00:16:50.108 [DEBU] RunMode:dev
+2024-01-23 00:16:50.108 [DEBU] {208e912795b7ac1792fe3f6e145ea890} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:16:50.108 [DEBU] {208e912795b7ac1792fe3f6e145ea890} init.go:68: dzh
+2024-01-23 00:16:57.732 [DEBU] {208e912795b7ac1792fe3f6e145ea890} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:16:57.739 [INFO] {78d5602795b7ac1791fe3f6e474f21b2} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:16:57.740 [INFO] {78d5602795b7ac1791fe3f6e474f21b2} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:16:57.739 [INFO] pid[50479]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:16:58.687 [DEBU] {50a2f12697b7ac1793fe3f6e58ec8ff5} wechat.go:93: RetCode:0  Selector:2
+2024-01-23 00:17:24.007 [DEBU] {f089150c9db7ac1794fe3f6edc6c5ad3} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:17:49.098 [DEBU] {4077aae3a2b7ac1795fe3f6eb412678a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:18:14.185 [DEBU] {8011f3baa8b7ac1796fe3f6e12e33811} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:18:39.262 [DEBU] {a04cac91aeb7ac1797fe3f6ef2bbe16f} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:19:04.358 [DEBU] {90587d69b4b7ac1798fe3f6e3f5dffca} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:19:29.419 [DEBU] {20283d3fbab7ac1799fe3f6e6bb2fecf} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:19:54.479 [DEBU] {60f9f014c0b7ac179afe3f6e7cc33b2b} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:20:19.535 [DEBU] {a81967eac5b7ac179bfe3f6ea3cc02d0} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:20:44.591 [DEBU] {b0d9d2bfcbb7ac179cfe3f6ea28d3173} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:21:09.649 [DEBU] {f8216c95d1b7ac179dfe3f6edffe4881} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:21:34.713 [DEBU] {e8265f6bd7b7ac179efe3f6e617ea1bf} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:21:59.775 [DEBU] {48512641ddb7ac179ffe3f6e44413906} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:22:25.482 [DEBU] {50f0683de3b7ac17a0fe3f6e7f7d78de} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:22:50.533 [DEBU] {e0e49012e9b7ac17a1fe3f6e611cd6ea} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:23:15.654 [DEBU] {0083e9ebeeb7ac17a2fe3f6eec5e53fc} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:23:40.704 [DEBU] {981d04c1f4b7ac17a3fe3f6e5b67e6f6} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:24:05.758 [DEBU] {40065796fab7ac17a4fe3f6e3eb13266} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:24:30.916 [DEBU] {00f9d67100b8ac17a5fe3f6eb5195284} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:24:55.972 [DEBU] {a86e514706b8ac17a6fe3f6ef94b23fc} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:25:21.026 [DEBU] {a801a21c0cb8ac17a7fe3f6e32519f4d} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:25:46.092 [DEBU] {d090b4f211b8ac17a8fe3f6ec2398767} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:26:11.167 [DEBU] {00424cc917b8ac17a9fe3f6e16d9ad14} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:26:36.223 [DEBU] {b051bb9e1db8ac17aafe3f6e76c474be} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:27:01.368 [DEBU] {e8ce7a7923b8ac17abfe3f6e093ded30} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:27:26.537 [DEBU] {c0bab65529b8ac17acfe3f6e29f19bee} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:27:51.625 [DEBU] {988e142d2fb8ac17adfe3f6e710ca424} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:28:16.684 [DEBU] {d0f0b70235b8ac17aefe3f6e5387946b} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:28:41.749 [DEBU] {2844a9d83ab8ac17affe3f6e375cc1c7} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:29:07.002 [DEBU] {709fe2b940b8ac17b0fe3f6e2c61914f} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:29:32.060 [DEBU] {f83c738f46b8ac17b1fe3f6ec568418c} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:29:57.115 [DEBU] {1054d7644cb8ac17b2fe3f6e6076781d} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:30:22.179 [DEBU] {f8adc33a52b8ac17b3fe3f6e164d1390} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:30:47.239 [DEBU] {7058751058b8ac17b4fe3f6e4440e5d7} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:31:12.297 [DEBU] {406d05e65db8ac17b5fe3f6eda1afb38} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:31:37.355 [DEBU] {40a3a3bb63b8ac17b6fe3f6e5103ddee} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:32:02.424 [DEBU] {98d5d89169b8ac17b7fe3f6ec8811c0f} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:32:29.049 [DEBU] {9881d0c46fb8ac17b8fe3f6e3dc9fdda} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:32:54.112 [DEBU] {00cdb49a75b8ac17b9fe3f6e84737c3a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:33:19.159 [DEBU] {e0939c6f7bb8ac17bafe3f6e52e33a94} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:33:44.221 [DEBU] {20ab6e4581b8ac17bbfe3f6e9f261996} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:34:09.387 [DEBU] {80b9692187b8ac17bcfe3f6e802cf763} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:34:34.474 [DEBU] {78ffc1f88cb8ac17bdfe3f6ee71b8dc0} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:34:59.532 [DEBU] {f8624ece92b8ac17befe3f6ea4171ebb} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:35:24.650 [DEBU] {78d06da798b8ac17bffe3f6e4c222d06} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:35:49.712 [DEBU] {30924a7d9eb8ac17c0fe3f6e2e3c3a77} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:36:14.770 [DEBU] {8009d552a4b8ac17c1fe3f6e1273cfd9} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:36:41.533 [DEBU] {9066038eaab8ac17c2fe3f6eb4bd7146} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:37:06.589 [DEBU] {00927d63b0b8ac17c3fe3f6edfa68fc6} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:37:31.651 [DEBU] {28e34639b6b8ac17c4fe3f6e43b3b5e8} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:37:56.704 [DEBU] {a07a930ebcb8ac17c5fe3f6eb40ffd42} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:38:21.762 [DEBU] {802d25e4c1b8ac17c6fe3f6e60dddacd} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:38:46.825 [DEBU] {7826feb9c7b8ac17c7fe3f6ed85f6d1a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:39:11.885 [DEBU] {10efb78fcdb8ac17c8fe3f6e05b81bd4} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:39:36.936 [DEBU] {7050e464d3b8ac17c9fe3f6ed6518c37} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:40:02.000 [DEBU] {b8cac83ad9b8ac17cafe3f6e39110917} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:40:27.055 [DEBU] {d0db2d10dfb8ac17cbfe3f6e47deeb68} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:40:52.119 [DEBU] {a8c625e6e4b8ac17ccfe3f6e24e05c34} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:41:17.185 [DEBU] {a00a31bceab8ac17cdfe3f6ea55d4858} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:41:42.625 [DEBU] {901085a8f0b8ac17cefe3f6e56e953d5} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:42:07.686 [DEBU] {18b23e7ef6b8ac17cffe3f6e65e91fea} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:42:32.792 [DEBU] {a0f6b656fcb8ac17d0fe3f6e95476080} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:42:57.848 [DEBU] {d86c2d2c02b9ac17d1fe3f6e755a2f78} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:43:22.905 [DEBU] {d85cad0108b9ac17d2fe3f6e576d6e08} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:43:47.967 [DEBU] {00a877d70db9ac17d3fe3f6ee5c6c6ce} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:44:13.018 [DEBU] {900da2ac13b9ac17d4fe3f6ed8dba000} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:44:38.074 [DEBU] {98fc1a8219b9ac17d5fe3f6e7afeb4a0} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:45:03.221 [DEBU] {f0fbfb5c1fb9ac17d6fe3f6e3eb6c07b} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:45:28.283 [DEBU] {7086c03225b9ac17d7fe3f6e1e4d80ed} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:45:53.335 [DEBU] {e03dfa072bb9ac17d8fe3f6e330f4193} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:46:18.395 [DEBU] {3811addd30b9ac17d9fe3f6e6b6128d7} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:46:43.456 [DEBU] {909c6bb336b9ac17dafe3f6edf2c879d} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:47:08.517 [DEBU] {38eb2a893cb9ac17dbfe3f6e66010f57} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:47:33.655 [DEBU] {d8798a6342b9ac17dcfe3f6ef63cdc6a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:47:58.777 [DEBU] {58aef13c48b9ac17ddfe3f6ebae6ca6d} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:48:23.900 [DEBU] {f86b64164eb9ac17defe3f6e788879ff} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:48:48.986 [DEBU] {60189bed53b9ac17dffe3f6e2090ede5} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:49:14.042 [DEBU] {485a0ec359b9ac17e0fe3f6ef2ddb93a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:49:39.290 [DEBU] {3016fca35fb9ac17e1fe3f6e6a337046} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:50:04.342 [DEBU] {98b72b7965b9ac17e2fe3f6e28b64378} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:50:29.400 [DEBU] {9060be4e6bb9ac17e3fe3f6e9a740c3a} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:50:54.448 [DEBU] {1012c12371b9ac17e4fe3f6e9d4eb810} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:51:19.543 [DEBU] {38c882fb76b9ac17e5fe3f6e935725b0} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:51:44.657 [DEBU] {d88064d47cb9ac17e6fe3f6ed11f3cd0} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:52:09.704 [DEBU] {289458a982b9ac17e7fe3f6e783790f4} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:52:34.760 [DEBU] {38d5d17e88b9ac17e8fe3f6e58109a01} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:52:59.817 [DEBU] {b8a44c548eb9ac17e9fe3f6e8b866857} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:53:24.984 [DEBU] {80be653094b9ac17eafe3f6e426f5606} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:53:50.044 [DEBU] {a8c311069ab9ac17ebfe3f6e06e666c6} wechat.go:93: RetCode:0  Selector:0
+2024-01-23 00:53:56.777 50479: server gracefully shutting down by signal: interrupt
+2024-01-23 00:53:56.778 [INFO] cmd.go:22: pid[50479]: all servers shutdown
+2024-01-23 00:53:59.383 [DEBU] service init
+2024-01-23 00:53:59.383 [DEBU] RunMode:dev
+2024-01-23 00:53:59.383 [DEBU] {9044b6329cb9ac177b40b32bac3ba79a} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:53:59.383 [DEBU] {9044b6329cb9ac177b40b32bac3ba79a} init.go:68: dzh
+2024-01-23 00:54:21.343 [DEBU] service init
+2024-01-23 00:54:21.343 [DEBU] RunMode:dev
+2024-01-23 00:54:21.343 [DEBU] {d828a44fa1b9ac172e52d261b31266d0} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:54:21.343 [DEBU] {d828a44fa1b9ac172e52d261b31266d0} init.go:68: dzh
+2024-01-23 00:54:29.615 [DEBU] {d828a44fa1b9ac172e52d261b31266d0} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:54:29.619 [INFO] {50ab8b4fa1b9ac172d52d2618b36e89f} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:54:29.619 [INFO] {50ab8b4fa1b9ac172d52d2618b36e89f} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:54:29.619 [INFO] pid[53156]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:54:30.771 [DEBU] {c8d29981a3b9ac172f52d2612dcdde9a} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:54:30.932 [DEBU] {98d6348ba3b9ac173052d261921fdf3c} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:54:31.654 [DEBU] {98d6348ba3b9ac173052d261921fdf3c} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 1
+2024-01-23 00:54:31.655 [DEBU] {98d6348ba3b9ac173052d261921fdf3c} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"8aefcbbe-1f48-4dc6-8be7-18ccb3c215ac","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：1"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"2a2b9c7a-37d6-4b77-a816-f599fc5d5f40","model":"text-davinci-002-render-sha"}
+2024-01-23 00:54:35.068 [DEBU] chatgpt.go:189: 信息长度：17
+2024-01-23 00:54:35.068 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["你刚才问了一个问题。有其他问题吗？"]},"create_time":1705942473.364908,"end_turn":true,"id":"7ec9e5f6-e8e8-4048-9f52-73271e51cd11","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"16565b5f-e6b5-42f6-a244-e039c501a31f"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 00:54:35.502 [DEBU] {5835969ba4b9ac173152d261361ef698} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:54:48.788 [DEBU] {608e7eb3a7b9ac173252d261160153ce} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:54:49.303 [DEBU] {10b42fd2a7b9ac173352d2616d9e861a} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:54:49.305 [DEBU] {10b42fd2a7b9ac173352d2616d9e861a} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 2
+2024-01-23 00:54:49.306 [DEBU] {10b42fd2a7b9ac173352d2616d9e861a} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"399aec2c-57e2-4350-8c92-d06cda765d78","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：2"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"8aefcbbe-1f48-4dc6-8be7-18ccb3c215ac","model":"text-davinci-002-render-sha"}
+2024-01-23 00:54:51.637 [DEBU] chatgpt.go:189: 信息长度：13
+2024-01-23 00:54:51.638 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["你刚刚问了两个问题。"]},"create_time":1705942490.267893,"end_turn":true,"id":"5cdb5a8f-4f4c-47ca-bc68-faa104d0e5cf","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"c218446a-9642-423b-be37-7016620b8a58"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 00:54:52.127 [DEBU] {d871797aa8b9ac173452d261fe7b88bc} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:54:59.397 [DEBU] {98b4d72baab9ac173552d261b0c8c15f} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:54:59.536 [DEBU] {105a1b34aab9ac173652d261fc4675af} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:54:59.537 [DEBU] {105a1b34aab9ac173652d261fc4675af} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 3+5
+2024-01-23 00:54:59.537 [DEBU] {105a1b34aab9ac173652d261fc4675af} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"cf4a1918-121f-4420-8e6c-057566114869","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：3+5"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"399aec2c-57e2-4350-8c92-d06cda765d78","model":"text-davinci-002-render-sha"}
+2024-01-23 00:55:01.780 [DEBU] chatgpt.go:189: 信息长度：28
+2024-01-23 00:55:01.781 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["你刚刚问了三个问题。3 + 5 的答案是8。有其他问题吗？"]},"create_time":1705942500.108012,"end_turn":true,"id":"105e5464-4328-452e-9a37-b580e5e455d4","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"11124b1a-ec82-440c-9709-c370eef4aa06"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 00:55:02.314 [DEBU] {6821b0d9aab9ac173752d26178a91302} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:07.215 53156: server gracefully shutting down by signal: interrupt
+2024-01-23 00:55:07.216 [INFO] cmd.go:22: pid[53156]: all servers shutdown
+2024-01-23 00:55:07.960 [DEBU] service init
+2024-01-23 00:55:07.960 [DEBU] RunMode:dev
+2024-01-23 00:55:07.960 [DEBU] {609e392aacb9ac1778a5760c8bb7e6a6} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:55:07.960 [DEBU] {609e392aacb9ac1778a5760c8bb7e6a6} init.go:68: dzh
+2024-01-23 00:55:09.335 [DEBU] {609e392aacb9ac1778a5760c8bb7e6a6} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:55:09.338 [INFO] {c012242aacb9ac1777a5760c1f2ffe6c} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:55:09.338 [INFO] {c012242aacb9ac1777a5760c1f2ffe6c} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:55:09.338 [INFO] pid[53220]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:55:10.429 [DEBU] {20cb4fbdacb9ac1779a5760c57119587} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:19.350 [DEBU] {085d1fd1aeb9ac177aa5760cbac6be78} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:19.476 [DEBU] {f803a4d8aeb9ac177ba5760c5a007f05} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:55:20.032 [DEBU] {f803a4d8aeb9ac177ba5760c5a007f05} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 4+4
+2024-01-23 00:55:20.034 [DEBU] {f803a4d8aeb9ac177ba5760c5a007f05} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"58e7fff7-eeb3-4920-a1b2-904cff1f73d5","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：4+4"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"cf4a1918-121f-4420-8e6c-057566114869","model":"text-davinci-002-render-sha"}
+2024-01-23 00:55:22.749 [DEBU] chatgpt.go:189: 信息长度：37
+2024-01-23 00:55:22.750 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["你刚才问了两个问题，第一个是\"我一共问了几个问题\"，第二个是\"3+5\"。"]},"create_time":1705942520.554675,"end_turn":true,"id":"44f8548f-490f-4874-a749-d898585f2996","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"c308b855-227e-44f1-8c91-354747bee30f"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 00:55:23.215 [DEBU] {d0a87eb7afb9ac177ca5760cd9b818e4} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:36.221 [DEBU] {507eb5beb2b9ac177da5760cf7bc4e58} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:36.544 [DEBU] {201efbd1b2b9ac177ea5760c29aa89cd} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:55:36.547 [DEBU] {201efbd1b2b9ac177ea5760c29aa89cd} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 你回答我，5+4是多少
+2024-01-23 00:55:36.548 [DEBU] {201efbd1b2b9ac177ea5760c29aa89cd} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"cf131b69-8141-48d3-9ecf-aacb544fbe6b","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：你回答我，5+4是多少"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"58e7fff7-eeb3-4920-a1b2-904cff1f73d5","model":"text-davinci-002-render-sha"}
+2024-01-23 00:55:40.001 [DEBU] chatgpt.go:189: 信息长度：16
+2024-01-23 00:55:40.001 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["5+4等于9。有其他问题吗？"]},"create_time":1705942537.199311,"end_turn":true,"id":"86ef5abc-46c5-4a9c-9f19-5e504024e8c9","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"21609bf7-e231-4918-bdd5-8496f1784369"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 00:55:40.633 [DEBU] {b023b2c5b3b9ac177fa5760ca6d20913} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:56.261 [DEBU] {20073569b7b9ac1780a5760cb8c79017} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:55:57.012 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:55:57.012 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:203: requestText @智能小美 3
+2024-01-23 00:55:57.012 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:205: 群聊 requestText:@智能小美 3
+2024-01-23 00:55:57.012 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:211: 群聊 @消息 截取后 requestText:3
+2024-01-23 00:55:57.012 {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:172: 定时任务，查询天气
+2024-01-23 00:55:57.219 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:185: 地点: 广东高州市
+  天气: 雨
+ 气温: 5
+ 风向: 西北
+ 风力: 4
+ 湿度: 92 
+2024-01-23 00:55:57.220 [DEBU] {0849ed95b7b9ac1781a5760ca728c2ca} wechat.go:247: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 00:55:57.617 [DEBU] {387107bab7b9ac1782a5760ce1dd7c2f} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:56:22.869 [DEBU] {482a259bbdb9ac1783a5760c05410dfc} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:56:37.225 53220: server gracefully shutting down by signal: interrupt
+2024-01-23 00:56:37.226 [INFO] cmd.go:22: pid[53220]: all servers shutdown
+2024-01-23 00:56:38.831 [DEBU] service init
+2024-01-23 00:56:38.831 [DEBU] RunMode:dev
+2024-01-23 00:56:38.831 [DEBU] {98d29452c1b9ac17a61dc779d2db5b37} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:56:38.832 [DEBU] {98d29452c1b9ac17a61dc779d2db5b37} init.go:68: dzh
+2024-01-23 00:56:40.159 [DEBU] {98d29452c1b9ac17a61dc779d2db5b37} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:56:40.164 [INFO] {488f5552c1b9ac17a51dc77949533de7} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:56:40.164 [INFO] {488f5552c1b9ac17a51dc77949533de7} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:56:40.164 [INFO] pid[53331]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:56:41.171 [DEBU] {f8f408dec1b9ac17a71dc779a0082f99} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:56:49.026 [DEBU] {60c734b2c3b9ac17a81dc7795db7b56e} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:56:50.252 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:56:50.252 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:203: requestText @智能小美 天气
+2024-01-23 00:56:50.252 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:205: 群聊 requestText:@智能小美 天气
+2024-01-23 00:56:50.252 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:211: 群聊 @消息 截取后 requestText:天气
+2024-01-23 00:56:50.253 {88514dfbc3b9ac17a91dc77901011514} wechat.go:172: 定时任务，查询天气
+2024-01-23 00:56:50.406 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5
+风向: 西北
+风力: 4
+湿度: 92
+2024-01-23 00:56:50.407 [DEBU] {88514dfbc3b9ac17a91dc77901011514} wechat.go:247: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 00:56:50.729 [DEBU] {601bb717c4b9ac17aa1dc77965d45a93} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:57:15.944 [DEBU] {3851abf6c9b9ac17ab1dc7798e4cc352} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:57:42.764 [DEBU] {c0354035d0b9ac17ac1dc779b3608e68} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:58:03.317 53331: server gracefully shutting down by signal: interrupt
+2024-01-23 00:58:03.319 [INFO] cmd.go:22: pid[53331]: all servers shutdown
+2024-01-23 00:58:04.796 [DEBU] service init
+2024-01-23 00:58:04.797 [DEBU] RunMode:dev
+2024-01-23 00:58:04.797 [DEBU] {901c8156d5b9ac17f410ae01f3e55ba7} init.go:59: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 00:58:04.797 [DEBU] {901c8156d5b9ac17f410ae01f3e55ba7} init.go:68: dzh
+2024-01-23 00:58:06.180 [DEBU] {901c8156d5b9ac17f410ae01f3e55ba7} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 00:58:06.187 [INFO] {50235156d5b9ac17f310ae013901bea0} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 00:58:06.187 [INFO] {50235156d5b9ac17f310ae013901bea0} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 00:58:06.187 [INFO] pid[53447]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 00:58:07.116 [DEBU] {a04ec3e0d5b9ac17f510ae016f3875d5} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:58:12.541 [DEBU] {c0061a24d7b9ac17f610ae019c822e75} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:58:13.712 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 00:58:13.712 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:203: requestText @智能小美
+2024-01-23 00:58:13.712 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:205: 群聊 requestText:@智能小美
+2024-01-23 00:58:13.712 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:211: 群聊 @消息 截取后 requestText:
+2024-01-23 00:58:13.712 {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:172: 定时任务，查询天气
+2024-01-23 00:58:13.890 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 西北
+风力: 4级
+湿度: 92
+2024-01-23 00:58:13.890 [DEBU] {e8c4e869d7b9ac17f710ae0152bb3609} wechat.go:247: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 00:58:14.228 [DEBU] {c012ae88d7b9ac17f810ae011717ef8d} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 00:58:39.465 [DEBU] {c0bbe268ddb9ac17f910ae01e8948ce1} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:59:04.533 [DEBU] {d851173fe3b9ac17fa10ae01d8d03ccb} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:59:29.835 [DEBU] {f0972e23e9b9ac17fb10ae01c6ecdb6b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 00:59:54.930 [DEBU] {a8adf1faeeb9ac17fc10ae01a886cde9} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:00:19.991 [DEBU] {30e3bcd0f4b9ac17fd10ae01c769558e} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:00:45.051 [DEBU] {b00369a6fab9ac17fe10ae01e45de198} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:01:10.402 [DEBU] {38f06b8d00baac17ff10ae016436e4fc} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:01:35.494 [DEBU] {38ea076506baac170011ae0112414253} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:02:00.553 [DEBU] {88c5ab3a0cbaac170111ae011856905f} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:02:25.671 [DEBU] {a007dc1312baac170211ae010c709a64} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:02:50.740 [DEBU] {e04f0eea17baac170311ae016036fcf7} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:03:16.057 [DEBU] {e0f90fcf1dbaac170411ae017f6319e5} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:03:41.127 [DEBU] {e8a863a523baac170511ae0137f71488} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:04:06.181 [DEBU] {6010b87a29baac170611ae016dddab97} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:04:31.245 [DEBU] {d04299502fbaac170711ae0175000b2b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:04:56.301 [DEBU] {c0ac132635baac170811ae01abdfe072} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:05:21.361 [DEBU] {283cc3fb3abaac170911ae01a497264d} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:05:46.419 [DEBU] {709659d140baac170a11ae018b63d536} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:06:11.471 [DEBU] {c81688a646baac170b11ae01ddd5b2eb} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:06:36.543 [DEBU] {c86cf17c4cbaac170c11ae01c3e2b299} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:07:01.637 [DEBU] {88ceb55452baac170d11ae01a3fbaa62} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:07:26.729 [DEBU] {18f9452c58baac170e11ae01dec2862b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:07:51.786 [DEBU] {9010d1015ebaac170f11ae01202e2673} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:08:16.948 [DEBU] {e0c495dd63baac171011ae01ce4b4659} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:08:42.047 [DEBU] {80e196b569baac171111ae01e56f6b7d} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:09:01.751 53447: server gracefully shutting down by signal: interrupt
+2024-01-23 01:09:01.752 [INFO] cmd.go:22: pid[53447]: all servers shutdown
+2024-01-23 01:09:03.571 [DEBU] service init
+2024-01-23 01:09:03.571 [DEBU] RunMode:dev
+2024-01-23 01:09:03.571 [DEBU] {c0ce7fb86ebaac170207661fd8df9fc8} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:09:03.571 [DEBU] {c0ce7fb86ebaac170207661fd8df9fc8} init.go:70: dzh
+2024-01-23 01:09:05.141 [DEBU] {c0ce7fb86ebaac170207661fd8df9fc8} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:09:05.147 [INFO] {f89d55b86ebaac170107661f3c883625} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:09:05.147 [INFO] {f89d55b86ebaac170107661f3c883625} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:09:05.147 [INFO] pid[54059]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:09:06.219 [DEBU] {a0f561566fbaac170307661fefdaffcd} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:09:12.184 [DEBU] {b0d4e5b970baac170407661fc0b1dd38} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:09:13.440 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:103: hadler Received 消息类型 :文本消息
+2024-01-23 01:09:13.440 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:209: requestText @智能小美
+2024-01-23 01:09:13.440 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:211: 群聊 requestText:@智能小美
+2024-01-23 01:09:13.440 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:217: 群聊 @消息 截取后 requestText:
+2024-01-23 01:09:13.441 {c06ac70471baac170507661fab012761} wechat.go:178: 定时任务，查询天气
+2024-01-23 01:09:13.658 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:191: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 4级
+湿度: 92
+2024-01-23 01:09:13.658 [DEBU] {c06ac70471baac170507661fab012761} wechat.go:253: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:09:13.952 [DEBU] {90ab422371baac170607661fbe3057b9} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:09:38.488 54059: server gracefully shutting down by signal: interrupt
+2024-01-23 01:09:38.489 [INFO] cmd.go:22: pid[54059]: all servers shutdown
+2024-01-23 01:09:39.954 [DEBU] service init
+2024-01-23 01:09:39.954 [DEBU] RunMode:dev
+2024-01-23 01:09:39.954 [DEBU] {48e61d3177baac176503da5e9e242ed8} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:09:39.954 [DEBU] {48e61d3177baac176503da5e9e242ed8} init.go:70: dzh
+2024-01-23 01:09:41.286 [DEBU] {48e61d3177baac176503da5e9e242ed8} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:09:41.292 [INFO] {a8a9e63077baac176403da5e654b952d} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:09:41.292 [INFO] {a8a9e63077baac176403da5e654b952d} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:09:41.292 [INFO] pid[54127]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:09:42.307 [DEBU] {28d85fbd77baac176603da5e404e3101} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:09:46.445 [DEBU] {705a07b478baac176703da5eeaebfc20} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:09:47.763 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:103: hadler Received 消息类型 :文本消息
+2024-01-23 01:09:47.764 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:209: requestText @智能小美
+2024-01-23 01:09:47.764 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:211: 群聊 requestText:@智能小美
+2024-01-23 01:09:47.764 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:217: 群聊 @消息 截取后 requestText:
+2024-01-23 01:09:47.764 {b05c940279baac176803da5eeef15028} wechat.go:174: 定时任务，查询天气
+2024-01-23 01:09:47.764 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:178: groups [{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":2,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":5,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":1,"AttrStatus":0,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"","EncryChatRoomId":"@8fb58d1e055ec992b4eeab60c396a351","UserName":"@@e4ce5e608d029bc638d054c20e89b14170dc47608686f813061976fec62011bc","NickName":"家庭学习群","HeadImgUrl":"/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=824164632\u0026username=@@e4ce5e608d029bc638d054c20e89b14170dc47608686f813061976fec62011bc\u0026skey=","RemarkName":"","PYInitial":"JTXXQ","PYQuanPin":"jiatingxuexiqun","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":[{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null},{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":4133,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"","EncryChatRoomId":"","UserName":"@155fb5c71154af690cfaf7c0456ebf5f525bddc3cf7fee1ab4d843166d2c7a9e","NickName":"智能小美","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null},{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":4133,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"","EncryChatRoomId":"","UserName":"@3d2da0481e6ae62bb53d327a40a841a9526ca6e852bc503582850b54616d5b52","NickName":"哥哥","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null},{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":233509,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"","EncryChatRoomId":"","UserName":"@1fbefa568405befbe3e1a0e989fc527685a3bcbc0e26693ca98777a0c8f298c4","NickName":"智能小助手","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null},{"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":102501,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"","EncryChatRoomId":"","UserName":"@bed09b3c32100d7e2b92117a4538f51b0e8eb090e28800a39fd8df89164051c0","NickName":"妈妈","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}]}]
+2024-01-23 01:09:47.948 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:191: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 4级
+湿度: 92
+2024-01-23 01:09:47.950 [DEBU] {b05c940279baac176803da5eeef15028} wechat.go:253: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:09:48.294 [DEBU] {80533f2279baac176903da5eee19bd83} wechat.go:96: RetCode:0  Selector:2
+2024-01-23 01:10:13.950 [DEBU] {d887721b7fbaac176a03da5e31aef200} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:10:39.006 [DEBU] {c809e9f084baac176b03da5ea3dc913f} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:11:04.143 [DEBU] {f84029cb8abaac176c03da5e656defa8} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:11:29.316 [DEBU] {50c295a790baac176d03da5ee4d8aca5} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:11:54.378 [DEBU] {c0e3647d96baac176e03da5eea5afdc6} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:12:19.439 [DEBU] {40c72f539cbaac176f03da5edcbc3f5d} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:12:44.503 [DEBU] {c01a1229a2baac177003da5ec84a4893} wechat.go:96: RetCode:0  Selector:0
+2024-01-23 01:12:53.919 54127: server gracefully shutting down by signal: interrupt
+2024-01-23 01:12:53.920 [INFO] cmd.go:22: pid[54127]: all servers shutdown
+2024-01-23 01:12:55.867 [DEBU] service init
+2024-01-23 01:12:55.867 [DEBU] RunMode:dev
+2024-01-23 01:12:55.867 [DEBU] {80536ccea4baac17e7d87078c493f8ed} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:12:55.867 [DEBU] {80536ccea4baac17e7d87078c493f8ed} init.go:70: dzh
+2024-01-23 01:12:58.003 [DEBU] {80536ccea4baac17e7d87078c493f8ed} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:12:58.009 [INFO] {38083ccea4baac17e6d870782967165e} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:12:58.009 [INFO] {38083ccea4baac17e6d870782967165e} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:12:58.009 [INFO] pid[54328]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:12:58.930 [DEBU] {3061fc84a5baac17e8d87078b5e668ba} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:13:02.772 [DEBU] {88c9056aa6baac17e9d8707847870692} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:13:03.959 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 01:13:03.959 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:208: requestText @智能小美
+2024-01-23 01:13:03.959 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:210: 群聊 requestText:@智能小美
+2024-01-23 01:13:03.959 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:216: 群聊 @消息 截取后 requestText:
+2024-01-23 01:13:03.959 {a80cc0b0a6baac17ead870787b150cf9} wechat.go:173: 定时任务，查询天气
+2024-01-23 01:13:04.149 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:190: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 4级
+湿度: 92
+2024-01-23 01:13:04.150 [DEBU] {a80cc0b0a6baac17ead870787b150cf9} wechat.go:252: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:13:04.461 [DEBU] {0032b1cea6baac17ebd870784722a9d7} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:13:29.692 [DEBU] {c89a90aeacbaac17ecd870789e9628e2} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:13:54.749 [DEBU] {c07f1984b2baac17edd87078b7db0fb2} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:14:19.917 [DEBU] {d06f3760b8baac17eed87078b24d9dd1} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:14:45.217 [DEBU] {800f3544bebaac17efd87078140ede0e} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:15:10.282 [DEBU] {782a321ac4baac17f0d8707846f77106} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:15:35.372 [DEBU] {4893a8f1c9baac17f1d87078efd3aca5} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:16:00.427 [DEBU] {a0fe18c7cfbaac17f2d870781f4098bc} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:16:25.509 [DEBU] {00a9189ed5baac17f3d870788267e3c1} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:16:50.612 [DEBU] {e8f84d76dbbaac17f4d87078e1fa0f04} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:17:13.650 54328: server gracefully shutting down by signal: interrupt
+2024-01-23 01:17:13.652 [INFO] cmd.go:22: pid[54328]: all servers shutdown
+2024-01-23 01:17:15.646 [DEBU] service init
+2024-01-23 01:17:15.646 [DEBU] RunMode:dev
+2024-01-23 01:17:15.646 [DEBU] {b8ad764ae1baac17bd872e633de2d5bb} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:17:15.646 [DEBU] {b8ad764ae1baac17bd872e633de2d5bb} init.go:70: dzh
+2024-01-23 01:17:17.177 [DEBU] {b8ad764ae1baac17bd872e633de2d5bb} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:17:17.184 [INFO] {d052464ae1baac17bc872e635a663bbb} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:17:17.184 [INFO] {d052464ae1baac17bc872e635a663bbb} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:17:17.184 [INFO] pid[54598]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:17:18.169 [DEBU] {30acd7e0e1baac17be872e6339cef1af} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:17:22.041 [DEBU] {90b69ec7e2baac17bf872e6397f244de} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:17:23.211 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:102: hadler Received 消息类型 :文本消息
+2024-01-23 01:17:23.211 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:208: requestText @智能小美
+2024-01-23 01:17:23.211 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:210: 群聊 requestText:@智能小美
+2024-01-23 01:17:23.211 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:216: 群聊 @消息 截取后 requestText:
+2024-01-23 01:17:23.212 {e8b4610de3baac17c0872e636a4e88ce} wechat.go:173: 定时任务，查询天气
+2024-01-23 01:17:23.395 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:190: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 4级
+湿度: 92
+2024-01-23 01:17:23.397 [DEBU] {e8b4610de3baac17c0872e636a4e88ce} wechat.go:252: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:17:23.785 [DEBU] {08af9d2fe3baac17c1872e633d05a1a7} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:17:48.977 [DEBU] {d8c1270de9baac17c2872e63e8263c7b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:18:14.079 [DEBU] {e8a55fe5eebaac17c3872e63ecf2bd55} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:18:39.151 [DEBU] {20ffbfbbf4baac17c4872e6371611bfd} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:18:56.069 54598: server gracefully shutting down by signal: interrupt
+2024-01-23 01:18:56.071 [INFO] cmd.go:22: pid[54598]: all servers shutdown
+2024-01-23 01:18:57.590 [DEBU] service init
+2024-01-23 01:18:57.590 [DEBU] RunMode:dev
+2024-01-23 01:18:57.590 [DEBU] {e0daca06f9baac175c0082763559d1de} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:18:57.590 [DEBU] {e0daca06f9baac175c0082763559d1de} init.go:70: dzh
+2024-01-23 01:18:59.128 [DEBU] {e0daca06f9baac175c0082763559d1de} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:19:36.901 [DEBU] service init
+2024-01-23 01:19:36.901 [DEBU] RunMode:dev
+2024-01-23 01:19:36.901 [DEBU] {a832f32d02bbac1786bf3248df4e451e} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:19:36.901 [DEBU] {a832f32d02bbac1786bf3248df4e451e} init.go:70: dzh
+2024-01-23 01:19:38.388 [DEBU] {a832f32d02bbac1786bf3248df4e451e} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:19:51.988 [DEBU] service init
+2024-01-23 01:19:51.989 [DEBU] RunMode:dev
+2024-01-23 01:19:51.989 [DEBU] {182e38b105bbac172e07fa7b9e23bb18} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:19:51.989 [DEBU] {182e38b105bbac172e07fa7b9e23bb18} init.go:70: dzh
+2024-01-23 01:19:53.339 [DEBU] {182e38b105bbac172e07fa7b9e23bb18} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:19:53.349 [INFO] {90b10ab105bbac172d07fa7bf3434d64} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:19:53.349 [INFO] {90b10ab105bbac172d07fa7bf3434d64} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:19:53.349 [INFO] pid[54820]: http server started listening on [:8206]
+2024-01-23 01:19:54.469 [DEBU] {40c9174506bbac172f07fa7b1aee3391} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:20:19.758 [DEBU] {f89360280cbbac173007fa7b1f6f9efe} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:20:44.814 [DEBU] {e099ddfd11bbac173107fa7b8d2501ad} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:21:09.934 [DEBU] {508520d717bbac173207fa7b2032131a} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:21:34.991 [DEBU] {08f2a2ac1dbbac173307fa7bdefe3d8b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:21:36.445 54820: server gracefully shutting down by signal: interrupt
+2024-01-23 01:21:36.446 [INFO] cmd.go:22: pid[54820]: all servers shutdown
+2024-01-23 01:21:37.959 [DEBU] service init
+2024-01-23 01:21:37.959 [DEBU] RunMode:dev
+2024-01-23 01:21:37.959 [DEBU] {a0bf8b5d1ebbac173a70ac6d20dc2864} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:21:37.959 [DEBU] {a0bf8b5d1ebbac173a70ac6d20dc2864} init.go:70: dzh
+2024-01-23 01:21:39.428 [DEBU] {a0bf8b5d1ebbac173a70ac6d20dc2864} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:21:39.433 [INFO] {08a55c5d1ebbac173970ac6d9751ac66} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:21:39.434 [INFO] {08a55c5d1ebbac173970ac6d9751ac66} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:21:39.433 [INFO] pid[54951]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:21:40.455 [DEBU] {b04d53f21ebbac173b70ac6dc2318936} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:21:51.008 54951: server gracefully shutting down by signal: interrupt
+2024-01-23 01:21:51.009 [INFO] cmd.go:22: pid[54951]: all servers shutdown
+2024-01-23 01:21:52.387 [DEBU] service init
+2024-01-23 01:21:52.387 [DEBU] RunMode:dev
+2024-01-23 01:21:52.387 [DEBU] {c84c81b921bbac17d666881082bab53a} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:21:52.387 [DEBU] {c84c81b921bbac17d666881082bab53a} init.go:70: dzh
+2024-01-23 01:21:53.734 [DEBU] {c84c81b921bbac17d666881082bab53a} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:21:53.741 [INFO] {200553b921bbac17d566881049fc2974} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:21:53.741 [INFO] {200553b921bbac17d566881049fc2974} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:21:53.741 [INFO] pid[54990]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:21:54.620 [DEBU] {78269f3e22bbac17d76688108094145a} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:22:19.831 [DEBU] {282a571d28bbac17d8668810fe4a177c} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:22:44.887 [DEBU] {b803c2f22dbbac17d9668810e900ff9b} wechat.go:95: RetCode:0  Selector:0
+2024-01-23 01:22:47.931 54990: server gracefully shutting down by signal: interrupt
+2024-01-23 01:22:47.932 [INFO] cmd.go:22: pid[54990]: all servers shutdown
+2024-01-23 01:22:49.712 [DEBU] service init
+2024-01-23 01:22:49.712 [DEBU] RunMode:dev
+2024-01-23 01:22:49.712 [DEBU] {e01a5d122fbbac17d2d7fb65fa021711} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:22:49.712 [DEBU] {e01a5d122fbbac17d2d7fb65fa021711} init.go:70: dzh
+2024-01-23 01:22:51.077 [DEBU] {e01a5d122fbbac17d2d7fb65fa021711} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:22:51.082 [INFO] {f0612e122fbbac17d1d7fb65bdbee3dd} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:22:51.082 [INFO] {f0612e122fbbac17d1d7fb65bdbee3dd} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:22:51.082 [INFO] pid[55082]: http server started listening on [:8206]
+2024-01-23 01:22:52.142 [DEBU] {e8623aa32fbbac17d3d7fb65a9873782} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:23:07.351 55082: server gracefully shutting down by signal: interrupt
+2024-01-23 01:23:07.352 [INFO] cmd.go:22: pid[55082]: all servers shutdown
+2024-01-23 01:23:08.891 [DEBU] service init
+2024-01-23 01:23:08.891 [DEBU] RunMode:dev
+2024-01-23 01:23:08.891 [DEBU] {b8438b8933bbac17a5db3b3cf060196c} init.go:61: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:23:08.892 [DEBU] {b8438b8933bbac17a5db3b3cf060196c} init.go:70: dzh
+2024-01-23 01:23:10.284 [DEBU] {b8438b8933bbac17a5db3b3cf060196c} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:23:10.289 [INFO] {484c5c8933bbac17a4db3b3c95204c45} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:23:10.289 [INFO] {484c5c8933bbac17a4db3b3c95204c45} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:23:10.289 [INFO] pid[55133]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:23:11.224 [DEBU] {c824961434bbac17a6db3b3cf777c7e7} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:23:32.115 55133: server gracefully shutting down by signal: interrupt
+2024-01-23 01:23:32.116 [INFO] cmd.go:22: pid[55133]: all servers shutdown
+2024-01-23 01:24:49.960 [DEBU] service init
+2024-01-23 01:24:49.960 [DEBU] RunMode:dev
+2024-01-23 01:24:49.961 [DEBU] {c84fbb114bbbac17e58b69524c92baef} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:24:49.961 [DEBU] {c84fbb114bbbac17e58b69524c92baef} init.go:71: dzh
+2024-01-23 01:24:51.341 [DEBU] {c84fbb114bbbac17e58b69524c92baef} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:24:51.346 [INFO] {88d98a114bbbac17e48b69521cc0117a} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:24:51.346 [INFO] {88d98a114bbbac17e48b69521cc0117a} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:24:51.346 [INFO] pid[55248]: http server started listening on [:8206]
+2024-01-23 01:24:52.278 [DEBU] {b8dbe19b4bbbac17e68b6952bc913b35} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:24:55.211 55248: server gracefully shutting down by signal: interrupt
+2024-01-23 01:24:55.213 [INFO] cmd.go:22: pid[55248]: all servers shutdown
+2024-01-23 01:25:29.304 [DEBU] service init
+2024-01-23 01:25:29.305 [DEBU] RunMode:dev
+2024-01-23 01:25:29.305 [DEBU] {2019d63a54bbac170193a93a51eaff40} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:25:29.305 [DEBU] {2019d63a54bbac170193a93a51eaff40} init.go:71: dzh
+2024-01-23 01:25:40.864 [DEBU] {2019d63a54bbac170193a93a51eaff40} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:25:40.868 [INFO] {20e0a03a54bbac170093a93a610b806b} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:25:40.868 [INFO] {20e0a03a54bbac170093a93a610b806b} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:25:40.868 [INFO] pid[55315]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:25:41.859 [DEBU] {3877252757bbac170293a93ab576067a} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:25:48.086 55315: server gracefully shutting down by signal: interrupt
+2024-01-23 01:25:48.087 [INFO] cmd.go:22: pid[55315]: all servers shutdown
+2024-01-23 01:26:51.437 [DEBU] service init
+2024-01-23 01:26:51.437 [DEBU] RunMode:dev
+2024-01-23 01:26:51.437 [DEBU] {70a14d5a67bbac17e51e366723fa365c} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:26:51.437 [DEBU] {70a14d5a67bbac17e51e366723fa365c} init.go:71: dzh
+2024-01-23 01:26:52.996 [DEBU] {70a14d5a67bbac17e51e366723fa365c} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:26:53.000 [INFO] {f01d1a5a67bbac17e41e366733e69860} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:26:53.000 [INFO] {f01d1a5a67bbac17e41e366733e69860} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:26:53.000 [INFO] pid[55425]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:26:54.294 [DEBU] {585f980468bbac17e61e366787a1e2a5} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:26:57.527 55425: server gracefully shutting down by signal: interrupt
+2024-01-23 01:26:57.528 [INFO] cmd.go:22: pid[55425]: all servers shutdown
+2024-01-23 01:27:47.335 [DEBU] service init
+2024-01-23 01:27:47.335 [DEBU] RunMode:dev
+2024-01-23 01:27:47.335 [DEBU] {6012135e74bbac176e63ea6fa1786a49} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:27:47.335 [DEBU] {6012135e74bbac176e63ea6fa1786a49} init.go:71: dzh
+2024-01-23 01:27:48.581 [DEBU] {6012135e74bbac176e63ea6fa1786a49} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:27:48.601 [INFO] {989adf5d74bbac176d63ea6fc50ca8f8} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:27:48.601 [INFO] {989adf5d74bbac176d63ea6fc50ca8f8} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:27:48.599 [INFO] pid[55511]: http server started listening on [:8206]
+2024-01-23 01:27:49.727 [DEBU] {a0a8a8ec74bbac176f63ea6f8cd6813c} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:27:54.783 55511: server gracefully shutting down by signal: interrupt
+2024-01-23 01:27:54.784 [INFO] cmd.go:22: pid[55511]: all servers shutdown
+2024-01-23 01:27:55.452 [DEBU] service init
+2024-01-23 01:27:55.452 [DEBU] RunMode:dev
+2024-01-23 01:27:55.452 [DEBU] {b0ace84176bbac17a2dcac6a40b3a370} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:27:55.452 [DEBU] {b0ace84176bbac17a2dcac6a40b3a370} init.go:71: dzh
+2024-01-23 01:28:22.168 [DEBU] service init
+2024-01-23 01:28:22.168 [DEBU] RunMode:dev
+2024-01-23 01:28:22.168 [DEBU] {a8354c7a7cbbac17b50fa55a1f524113} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:28:22.168 [DEBU] {a8354c7a7cbbac17b50fa55a1f524113} init.go:71: dzh
+2024-01-23 01:28:23.385 [DEBU] {a8354c7a7cbbac17b50fa55a1f524113} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:28:23.393 [INFO] {186c327a7cbbac17b40fa55ad663c291} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:28:23.393 [INFO] {186c327a7cbbac17b40fa55ad663c291} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:28:23.393 [INFO] pid[55597]: http server started listening on [:8206]
+2024-01-23 01:28:24.318 [DEBU] {088f67fa7cbbac17b60fa55a6bb6964e} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:28:28.243 55597: server gracefully shutting down by signal: interrupt
+2024-01-23 01:28:28.244 [INFO] cmd.go:22: pid[55597]: all servers shutdown
+2024-01-23 01:28:58.526 [DEBU] service init
+2024-01-23 01:28:58.527 [DEBU] RunMode:dev
+2024-01-23 01:28:58.527 [DEBU] {60696df184bbac17820ae92fbe68006e} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:28:58.527 [DEBU] {60696df184bbac17820ae92fbe68006e} init.go:71: dzh
+2024-01-23 01:29:06.650 [DEBU] {60696df184bbac17820ae92fbe68006e} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:29:06.658 [INFO] {30263bf184bbac17810ae92fae11f35e} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:29:06.659 [INFO] {30263bf184bbac17810ae92fae11f35e} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:29:06.658 [INFO] pid[55664]: http server started listening on [:8206]
+2024-01-23 01:29:07.790 [DEBU] {f821981987bbac17830ae92f2534d867} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:29:12.677 55664: server gracefully shutting down by signal: interrupt
+2024-01-23 01:29:12.678 [INFO] cmd.go:22: pid[55664]: all servers shutdown
+2024-01-23 01:31:28.788 [DEBU] service init
+2024-01-23 01:31:28.788 [DEBU] RunMode:dev
+2024-01-23 01:31:28.788 [DEBU] {189cb3eda7bbac176783cb1fd43de54a} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:31:28.788 [DEBU] {189cb3eda7bbac176783cb1fd43de54a} init.go:71: dzh
+2024-01-23 01:31:30.426 [DEBU] {189cb3eda7bbac176783cb1fd43de54a} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:31:30.433 [INFO] {58a079eda7bbac176683cb1f98a4012e} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:31:30.433 [INFO] {58a079eda7bbac176683cb1f98a4012e} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:31:30.433 [INFO] pid[55866]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:31:31.402 [DEBU] {28227c89a8bbac176883cb1f253c25d0} wechat.go:95: RetCode:0  Selector:2
+2024-01-23 01:31:36.144 [DEBU] init.go:120: groups 数量 0
+2024-01-23 01:31:37.858 55866: server gracefully shutting down by signal: interrupt
+2024-01-23 01:31:37.859 [INFO] cmd.go:22: pid[55866]: all servers shutdown
+2024-01-23 01:40:18.496 [DEBU] service init
+2024-01-23 01:40:18.497 [DEBU] RunMode:dev
+2024-01-23 01:40:18.497 [DEBU] {c0e7cb4223bcac17ff8e8c36c63f9cd3} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:40:18.497 [DEBU] {c0e7cb4223bcac17ff8e8c36c63f9cd3} init.go:71: dzh
+2024-01-23 01:40:34.259 [DEBU] {c0e7cb4223bcac17ff8e8c36c63f9cd3} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:40:34.263 [INFO] {981a944223bcac17fe8e8c36266c3dc2} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:40:34.263 [INFO] {981a944223bcac17fe8e8c36266c3dc2} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:40:34.263 [INFO] pid[56363]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:40:35.570 [DEBU] {f08b6d3c27bcac17008f8c363a17a68e} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:40:46.899 [DEBU] {a0d4b5df29bcac17018f8c3616f7fee1} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:40:48.230 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:40:48.230 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:203: requestText @智能小美 天气
+2024-01-23 01:40:48.230 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:205: 群聊 requestText:@智能小美 天气
+2024-01-23 01:40:48.231 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:211: 群聊 @消息 截取后 requestText:天气
+2024-01-23 01:40:48.231 [WARN] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:171: 查询天气
+2024-01-23 01:40:48.464 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 5级
+湿度: 91
+2024-01-23 01:40:48.468 [DEBU] {b07b0e2f2abcac17028f8c36bbe9d311} wechat.go:252: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:40:48.912 [DEBU] {b831af572abcac17038f8c361dc10bed} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:40:55.003 [DEBU] {00d5c5c22bbcac17048f8c36b2c95c7b} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:40:55.192 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:40:55.192 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:203: requestText @智能小美     天气
+2024-01-23 01:40:55.192 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:205: 群聊 requestText:@智能小美     天气
+2024-01-23 01:40:55.192 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:211: 群聊 @消息 截取后 requestText:天气
+2024-01-23 01:40:55.192 [WARN] {f89afccd2bbcac17058f8c36548d330e} wechat.go:171: 查询天气
+2024-01-23 01:40:55.355 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 5级
+湿度: 91
+2024-01-23 01:40:55.355 [DEBU] {f89afccd2bbcac17058f8c36548d330e} wechat.go:252: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:40:55.680 [DEBU] {08d01ceb2bbcac17068f8c36a708b36e} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:41:20.914 [DEBU] {a0d322cb31bcac17078f8c36c44199d2} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:41:45.978 [DEBU] {b0081ba137bcac17088f8c367ed22b1e} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:42:02.683 56363: server gracefully shutting down by signal: interrupt
+2024-01-23 01:42:02.684 [INFO] cmd.go:22: pid[56363]: all servers shutdown
+2024-01-23 01:42:04.089 [DEBU] service init
+2024-01-23 01:42:04.089 [DEBU] RunMode:dev
+2024-01-23 01:42:04.089 [DEBU] {488093d83bbcac1765892d0e40a48b4f} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:42:04.089 [DEBU] {488093d83bbcac1765892d0e40a48b4f} init.go:71: dzh
+2024-01-23 01:42:05.451 [DEBU] {488093d83bbcac1765892d0e40a48b4f} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:42:05.460 [INFO] {481167d83bbcac1764892d0e24a785da} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:42:05.460 [INFO] {481167d83bbcac1764892d0e24a785da} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:42:05.460 [INFO] pid[56508]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:42:06.965 [DEBU] {f8c109843cbcac1766892d0e4687376a} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:42:14.025 [DEBU] {2862d4283ebcac1767892d0e1d0e32b5} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:42:15.022 [DEBU] {e0753b643ebcac1768892d0e0de6e0a6} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:42:15.022 [DEBU] {e0753b643ebcac1768892d0e0de6e0a6} wechat.go:203: requestText 小智 天气
+2024-01-23 01:42:15.022 [DEBU] {e0753b643ebcac1768892d0e0de6e0a6} wechat.go:205: 群聊 requestText:小智 天气
+2024-01-23 01:42:40.071 [DEBU] {5053453944bcac1769892d0ef675925e} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:43:05.224 [DEBU] {889a8a144abcac176a892d0ee5dda405} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:43:09.144 [DEBU] {803931fe4abcac176b892d0e3120adf2} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:43:09.446 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:43:09.447 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:203: requestText 小美 天气
+2024-01-23 01:43:09.447 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:205: 群聊 requestText:小美 天气
+2024-01-23 01:43:09.447 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:229: 群聊 关键词 小智 截取后 requestText:天气
+2024-01-23 01:43:09.447 [WARN] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:171: 查询天气
+2024-01-23 01:43:10.110 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 5级
+湿度: 91
+2024-01-23 01:43:10.110 [DEBU] {c81631104bbcac176c892d0e4cbc0dc6} wechat.go:258: groupSender: {"HideInputBarFlag":0,"StarFriend":0,"Sex":0,"AppAccountFlag":0,"VerifyFlag":0,"ContactFlag":0,"WebWxPluginSwitch":0,"HeadImgFlag":0,"SnsFlag":0,"IsOwner":0,"MemberCount":0,"ChatRoomId":0,"UniFriend":0,"OwnerUin":0,"Statues":0,"AttrStatus":110951,"Uin":0,"Province":"","City":"","Alias":"","DisplayName":"","KeyWord":"lil","EncryChatRoomId":"","UserName":"@2cde38a30986297213c2c2f41b36e670","NickName":"A网站，小程序，APP，游戏开发","HeadImgUrl":"","RemarkName":"","PYInitial":"","PYQuanPin":"","RemarkPYInitial":"","RemarkPYQuanPin":"","Signature":"","MemberList":null}
+2024-01-23 01:43:10.461 [DEBU] {483eac4c4bbcac176d892d0eb05c2f19} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:43:30.439 [DEBU] {985c74f34fbcac176e892d0e47dce727} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:43:30.720 [DEBU] {987e320450bcac176f892d0e52a75bad} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:43:30.721 [DEBU] {987e320450bcac176f892d0e52a75bad} chatgpt.go:85: Received UserA网站，小程序，APP，游戏开发[824162665] Text Msg : 天气
+2024-01-23 01:43:30.723 [DEBU] {987e320450bcac176f892d0e52a75bad} chatgpt.go:108: chatReq {"action":"next","messages":[{"id":"9218f9c0-98d9-40b1-99dd-dd7d28d2169b","author":{"role":"user"},"content":{"content_type":"text","parts":["请用中文回答：天气"]}}],"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","parent_message_id":"cf131b69-8141-48d3-9ecf-aacb544fbe6b","model":"text-davinci-002-render-sha"}
+2024-01-23 01:43:36.792 [DEBU] chatgpt.go:189: 信息长度：115
+2024-01-23 01:43:36.793 [DEBU] chatgpt.go:196: lastObject: {"conversation_id":"3e1ecf64-68da-484c-a824-9bc4ebb9bf27","error":null,"message":{"author":{"metadata":{},"name":null,"role":"assistant"},"content":{"content_type":"text","parts":["春天的雨水因地区而异，一些地方可能会下较多的雨，而另一些地方可能较少。冬天一般在寒冷的气候下，会有一些地区下雪，特别是在寒冷的地方。至于您之前问了什么问题，我目前无法回答，因为我没有记录或记忆之前的对话内容。如果您有其他问题，我将尽力回答。"]},"create_time":1705945411.573076,"end_turn":true,"id":"74626722-023a-46b4-a846-69a25cee3e93","metadata":{"finish_details":{"stop_tokens":[100260],"type":"stop"},"gizmo_id":null,"is_complete":true,"message_type":"next","model_slug":"text-davinci-002-render-sha","parent_id":"11ab1bbf-4dc9-4c89-9138-995dd47a352f"},"recipient":"all","status":"finished_successfully","update_time":null,"weight":1.0}}
+2024-01-23 01:43:37.354 [DEBU] {7080998f51bcac1770892d0e68b69dab} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:44:02.541 [DEBU] {b8f9e56c57bcac1771892d0eee16a26c} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:44:21.132 56508: server gracefully shutting down by signal: interrupt
+2024-01-23 01:44:21.133 [INFO] cmd.go:22: pid[56508]: all servers shutdown
+2024-01-23 01:44:22.590 [DEBU] service init
+2024-01-23 01:44:22.590 [DEBU] RunMode:dev
+2024-01-23 01:44:22.590 [DEBU] {082ce6175cbcac172c9c9978142e7896} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:44:22.590 [DEBU] {082ce6175cbcac172c9c9978142e7896} init.go:71: dzh
+2024-01-23 01:44:23.930 [DEBU] {082ce6175cbcac172c9c9978142e7896} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:44:23.934 [INFO] {7863b7175cbcac172b9c9978bab3da79} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:44:23.934 [INFO] {7863b7175cbcac172b9c9978bab3da79} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+2024-01-23 01:44:23.934 [INFO] pid[56662]: http server started listening on [:8206]
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:44:25.203 [DEBU] {2892a5b35cbcac172d9c9978add14830} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:44:31.430 [DEBU] {285cc6265ebcac172e9c9978fef5f58b} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:44:31.570 [DEBU] {e8ca252f5ebcac172f9c9978ac31378a} wechat.go:101: hadler Received 消息类型 :文本消息
+2024-01-23 01:44:31.572 [WARN] {e8ca252f5ebcac172f9c9978ac31378a} wechat.go:171: 查询天气
+2024-01-23 01:44:32.097 [DEBU] {e8ca252f5ebcac172f9c9978ac31378a} wechat.go:185: 地点: 广东高州市
+天气: 雨
+气温: 5摄氏度
+风向: 北
+风力: 5级
+湿度: 91
+2024-01-23 01:44:32.618 [DEBU] {407ba26d5ebcac17309c99782116ff8f} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:44:57.844 [DEBU] {b871354d64bcac17319c9978993e7175} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:45:11.124 56662: server gracefully shutting down by signal: interrupt
+2024-01-23 01:45:11.125 [INFO] cmd.go:22: pid[56662]: all servers shutdown
+2024-01-23 01:45:12.586 [DEBU] service init
+2024-01-23 01:45:12.586 [DEBU] RunMode:dev
+2024-01-23 01:45:12.586 [DEBU] {304fe1bb67bcac17e701d91d73c42f1c} init.go:62: {"From":"","FromCode":"","To":null,"IsOpen":false}
+2024-01-23 01:45:12.586 [DEBU] {304fe1bb67bcac17e701d91d73c42f1c} init.go:71: dzh
+2024-01-23 01:45:13.941 [DEBU] {304fe1bb67bcac17e701d91d73c42f1c} gfdoc.go:37: &{Type:anonymous Username: UserKey: AccountID: DisplayName:Anonymous}
+
+2024-01-23 01:45:13.945 [INFO] {a08cb1bb67bcac17e601d91dabd2bee8} cmd.go:22: swagger ui is serving at address: http://127.0.0.1:8206/swagger/
+2024-01-23 01:45:13.945 [INFO] {a08cb1bb67bcac17e601d91dabd2bee8} cmd.go:22: openapi specification is serving at address: http://127.0.0.1:8206/api.json
+
+  ADDRESS | METHOD |   ROUTE    |                             HANDLER                             |    MIDDLEWARE      
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /*         | github.com/gogf/gf/v2/net/ghttp.internalMiddlewareServerTracing | GLOBAL MIDDLEWARE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /api.json  | github.com/gogf/gf/v2/net/ghttp.(*Server).openapiSpec           |                    
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+  :8206   | ALL    | /swagger/* | github.com/gogf/gf/v2/net/ghttp.(*Server).swaggerUI             | HOOK_BEFORE_SERVE  
+----------|--------|------------|-----------------------------------------------------------------|--------------------
+
+2024-01-23 01:45:13.945 [INFO] pid[56741]: http server started listening on [:8206]
+2024-01-23 01:45:14.959 [DEBU] {887e4e4968bcac17e801d91d3f721bb7} wechat.go:94: RetCode:0  Selector:2
+2024-01-23 01:45:40.210 [DEBU] {d09f672a6ebcac17e901d91dacde1cf3} wechat.go:94: RetCode:0  Selector:0
+2024-01-23 01:45:43.702 56741: server gracefully shutting down by signal: interrupt
+2024-01-23 01:45:43.703 [INFO] cmd.go:22: pid[56741]: all servers shutdown

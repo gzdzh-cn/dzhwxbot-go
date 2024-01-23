@@ -1,0 +1,14 @@
+
+# CLI tool, only in development environment.
+# https://goframe.org/pages/viewpage.action?pageId=3673173
+gfcli:
+  # 工具编译配置
+  build:
+    name: "service-go"
+    arch: "amd64"
+    system: "linux"
+    mod: "none"
+    cgo: 0
+    path: "./bin"
+    version: "v0.0.1"
+    dumpEnv: true
