@@ -3,6 +3,7 @@ package service
 import (
 	"context"
 	"github.com/eatmoreapple/openwechat"
+	"github.com/gogf/gf/v2/encoding/gjson"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/os/gbuild"
 	"github.com/gogf/gf/v2/os/gcfg"
@@ -69,7 +70,7 @@ func Boot(ctx context.Context) {
 	}
 	if token.String() != "" {
 		glog.Debug(ctx, token.String())
-		NewSearchApi(ctx, token.String())
+		//NewSearchApi(ctx, token.String())
 	}
 
 	// wechat
@@ -95,6 +96,7 @@ func RunWechat(ctx context.Context) {
 
 	// 创建热存储容器对象
 	reloadStorage := openwechat.NewFileHotReloadStorage(wxBotCfg.Storage + "/botStorage.json")
+	glog.Warning(ctx, "reloadStorage", reloadStorage)
 
 	defer reloadStorage.Close()
 	// 执行热登录
@@ -112,21 +114,33 @@ func RunWechat(ctx context.Context) {
 }
 
 // 定时任务
-func TimeTask(handler *MsgHandler) error {
-	_, err := gcron.Add(ctx, "0 0 8 * * *", func(ctx context.Context) {
-		//handler.GetWeather(ctx)
-	}, "GetWeather")
+func TimeTask(handler *MsgHandler) (err error) {
 
 	_, err = gcron.Add(ctx, "0 0 6 * * *", func(ctx context.Context) {
-		self, _ := bot.GetCurrentUser()
-		groups, _ := self.Groups(true)
-		mps, _ := self.Mps(true)
-		friends, _ := self.Friends(true)
-		gfile.PutContents(wxBotCfg.Storage+"/history/groups.json", gconv.String(groups))
-		gfile.PutContents(wxBotCfg.Storage+"/history/mps.json", gconv.String(mps))
-		gfile.PutContents(wxBotCfg.Storage+"/history/friends.json", gconv.String(friends))
-		glog.Warning(ctx, "每天6点下载用户群，好友，公众号数据")
+
+		exists := gfile.Exists(wxBotCfg.Storage + "/botStorage.json")
+		if exists {
+			self, _ := bot.GetCurrentUser()
+			groups, _ := self.Groups(true)
+			mps, _ := self.Mps(true)
+			friends, _ := self.Friends(true)
+			_ = gfile.PutContents(wxBotCfg.Storage+"/history/groups.json", gjson.MustEncodeString(groups))
+			_ = gfile.PutContents(wxBotCfg.Storage+"/history/mps.json", gjson.MustEncodeString(mps))
+			_ = gfile.PutContents(wxBotCfg.Storage+"/history/friends.json", gjson.MustEncodeString(friends))
+			glog.Debug(ctx, "定时下载用户群，好友，公众号数据")
+		}
+
 	}, "GetData")
+
+	_, err = gcron.Add(ctx, "0 0 8 * * *", func(ctx context.Context) {
+		//批量推送天气
+		handler.MultGetWeaher(ctx)
+	}, "GetWeather")
+	//gtimer.SetTimeout(ctx, 3*time.Second, func(ctx context.Context) {
+	//fmt.Println("SetTimeout:", gtime.Now())
+	//handler.MultNotice(ctx)
+	//})
+
 	return err
 }
 

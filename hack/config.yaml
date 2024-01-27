@@ -10,5 +10,5 @@ gfcli:
     mod: "none"
     cgo: 0
     path: "./bin"
-    version: "v0.0.1"
+    version: "v0.0.2"
     dumpEnv: true

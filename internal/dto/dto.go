@@ -61,13 +61,16 @@ type ChatHistory struct {
 	Id              string  `json:"id"`
 	ConversationId  *string `json:"conversation_id"`
 	ParentMessageId string  `json:"parent_message_id"`
-	*WeatherPosition
+	//*WeatherPosition
 }
 
 type WeatherPosition struct {
 	SubscribeStatus bool   `json:"subscribeStatus"`
 	City            string `json:"city"`
 	Adcode          string `json:"adcode"`
+	GroupsId        string `json:"groupsId"`
+	GroupsUserName  string `json:"groupsUserName"`
+	GroupsNickName  string `json:"groupsNickName"`
 }
 
 type WeatherRes struct {
@@ -88,4 +91,20 @@ type WeatherRes struct {
 	} `json:"lives"`
 	Status string `json:"status"`
 	Count  string `json:"count"`
+}
+
+type WeatherCode struct {
+	Id         int         `json:"id"`
+	CreateTime string      `json:"createTime"`
+	UpdateTime string      `json:"updateTime"`
+	DeletedAt  interface{} `json:"deleted_at"`
+	Name       string      `json:"name"`
+	Image      string      `json:"image"`
+	Link       string      `json:"link"`
+	TypeId     interface{} `json:"typeId"`
+	Remark     string      `json:"remark"`
+	Status     int         `json:"status"`
+	OrderNum   int         `json:"orderNum"`
+	Adcode     string      `json:"adcode"`
+	Citycode   string      `json:"citycode"`
 }

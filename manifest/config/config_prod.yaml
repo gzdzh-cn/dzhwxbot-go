@@ -1,5 +1,5 @@
 dzhWxChat:
-  version: "v0.0.1"
+  version: "v0.0.2"
 server:
   address: ':8206'
   openapiPath: '/api.json'

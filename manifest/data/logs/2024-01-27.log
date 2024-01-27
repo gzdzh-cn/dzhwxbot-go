@@ -1,0 +1,11 @@
+2024-01-27 06:00:00.299 [ERRO] user.go:277: cron job "wxbot/internal/service.TimeTask.func1(0 0 6 * * *)" end with error: runtime error: invalid memory address or nil pointer dereference 
+Stack:
+1.  github.com/eatmoreapple/openwechat.(*Self).Members
+    /Users/lizheng/go/pkg/mod/github.com/eatmoreapple/openwechat@v1.4.3/user.go:277
+2.  github.com/eatmoreapple/openwechat.(*Self).Groups
+    /Users/lizheng/go/pkg/mod/github.com/eatmoreapple/openwechat@v1.4.3/user.go:328
+3.  wxbot/internal/service.TimeTask.func1
+    /Volumes/disk/site/go/dzh-wxChatApi/dzhwxbot-go/internal/service/init.go:128
+
+2024-01-27 12:25:02.655 37300: server gracefully shutting down by signal: interrupt
+2024-01-27 12:25:02.657 [INFO] cmd.go:22: pid[37300]: all servers shutdown

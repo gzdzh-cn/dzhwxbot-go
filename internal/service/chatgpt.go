@@ -27,22 +27,6 @@ var (
 
 func init() {
 
-	chatReq = &dto.ChatReq{
-		Action: "next",
-		// Messages 切片初始化
-		Messages: []dto.Message{
-			{
-				Id: "aaa2a222-af79-4d01-ae7e-cd7259b1f1be",
-				Author: dto.Author{
-					Role: "user",
-				},
-				Content: dto.Content{
-					ContentType: "text",
-				},
-			},
-		},
-		Model: "text-davinci-002-render-sha",
-	}
 }
 
 func NewChatGpt() *ChatGpt {
@@ -63,8 +47,6 @@ func (c *ChatGpt) SendConent(ctx context.Context, msg *openwechat.Message, reque
 
 // 回复
 func (c *ChatGpt) ReplyMsg(ctx context.Context, msg *openwechat.Message, reply string) string {
-
-	//glog.Debugf(ctx, "Received  Text Msg : %v", msg.Content)
 
 	return reply
 }
@@ -87,6 +69,27 @@ func Request(ctx context.Context, msg *openwechat.Message, requestText string) (
 	path := wxBotCfg.Storage + "/history/" + sender.ID() + ".json"
 	exists := gfile.Exists(path)
 	var contents *gjson.Json
+
+	// 生成一个新的 UUID
+	u := uuid.New().String()
+	chatReq = &dto.ChatReq{
+		Action: "next",
+		// Messages 切片初始化
+		Messages: []dto.Message{
+			{
+				Id: u,
+				Author: dto.Author{
+					Role: "user",
+				},
+				Content: dto.Content{
+					ContentType: "text",
+					Parts:       g.SliceAny{requestText},
+				},
+			},
+		},
+		Model: "text-davinci-002-render-sha",
+	}
+
 	if exists {
 		contents, _ = gjson.Load(path)
 		chatReq.ParentMessageId = contents.Get("id").String()
@@ -99,12 +102,8 @@ func Request(ctx context.Context, msg *openwechat.Message, requestText string) (
 			glog.Error(ctx, err.Error())
 			return
 		}
-		chatReq.ConversationId = nil
 	}
-	// 生成一个新的 UUID
-	uuid := uuid.New().String()
-	chatReq.Messages[0].Id = uuid
-	chatReq.Messages[0].Content.Parts = g.SliceAny{requestText}
+
 	glog.Debug(ctx, "chatReq", *chatReq)
 
 	client.SetHeader("Authorization", "Bearer "+chatGptCfg.AccessToken)
@@ -121,7 +120,7 @@ func Request(ctx context.Context, msg *openwechat.Message, requestText string) (
 	case <-ctx.Done():
 		glog.Debug(ctx, "Context canceled. Do not process response.")
 		// 可以添加其他处理逻辑，例如记录错误或返回默认值
-		return getDefaultReply("信息超时"), nil
+		return "信息超时", nil
 	default:
 		// 继续处理 response
 	}
@@ -131,11 +130,11 @@ func Request(ctx context.Context, msg *openwechat.Message, requestText string) (
 	if err != nil {
 		glog.Error(ctx, err.Error())
 		// 可以添加其他处理逻辑，例如记录错误或返回默认值
-		return getDefaultReply("文本转发失败"), nil
+		return "文本转发失败", nil
 	}
 
 	//截取最后一个流
-	res := strLen(reply)
+	res, _ := strLen(reply)
 
 	defer func() {
 		if err := recover(); err != nil {
@@ -145,23 +144,19 @@ func Request(ctx context.Context, msg *openwechat.Message, requestText string) (
 	}()
 
 	chatHistory := &dto.ChatHistory{
-		Id:              uuid,
+		Id:              u,
 		ParentMessageId: chatReq.ParentMessageId,
 		ConversationId:  res.ConversationId,
-		WeatherPosition: &dto.WeatherPosition{
-			SubscribeStatus: false,
-			City:            "高州",
-			Adcode:          "440981",
-		},
 	}
 
-	gfile.PutContents(path, gconv.String(chatHistory))
+	//记录上下文到本地
+	_ = gfile.PutContents(path, gconv.String(chatHistory))
 
 	// 返回 reply
 	return res.Message.Content.Parts[0], nil
 }
 
-// copyResponseToReply 将 respBody 复制到 reply 中
+// 将 respBody 复制到 reply 中
 func copyResponseToReply(respBody io.Reader) (string, error) {
 	// 读取 resp.Body 的内容并返回字符串
 	bodyBytes, err := ioutil.ReadAll(respBody)
@@ -172,14 +167,14 @@ func copyResponseToReply(respBody io.Reader) (string, error) {
 	return string(bodyBytes), nil
 }
 
-// getDefaultReply 返回默认的 reply
+// 返回默认的 reply
 func getDefaultReply(str string) string {
 	// 返回默认值，或者进行其他处理
 	return str
 }
 
 // 截取最后一个流
-func strLen(dataString string) *dto.ChatRes {
+func strLen(dataString string) (data *dto.ChatRes, err error) {
 
 	var resData *dto.ChatRes
 
@@ -195,13 +190,13 @@ func strLen(dataString string) *dto.ChatRes {
 		content, _ := gjson.LoadContent(lastObject)
 		glog.Debugf(ctx, "lastObject: %v", content)
 		// 解析 JSON
-		err := json.Unmarshal([]byte(lastObject), &resData)
+		err = json.Unmarshal([]byte(lastObject), &resData)
 		if err != nil {
 			glog.Error(ctx, "解析 JSON 失败:", err.Error())
-			return resData
+			return
 		}
 	}
 	//glog.Debugf(ctx, "resData: %v", resData)
-
-	return resData
+	data = resData
+	return
 }
