@@ -14,6 +14,7 @@ var (
 		Usage: "main",
 		Brief: "start http server",
 		Func: func(ctx context.Context, parser *gcmd.Parser) (err error) {
+
 			service.Boot(ctx)
 			s := g.Server()
 			s.SetLogger(glog.DefaultLogger())

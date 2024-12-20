@@ -92,6 +92,7 @@ func RunWechat(ctx context.Context) {
 
 	bot.SyncCheckCallback = handler.SyncCheckCallback
 
+	//定时下载用户列表和其他
 	_ = TimeTask(handler)
 
 	// 创建热存储容器对象
